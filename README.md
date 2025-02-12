@@ -25,6 +25,11 @@ If you spot any missing groups, please feel free to contribute by posting an [is
 ## FC Barcelona (Barcelona)
 - **Boixos Nois**
 
+# Italy
+
+## Lazio (Rome)
+- **Irriducibili**
+
 # Egypt 
 
 ## Al Ahly (Cairo)
