@@ -9,6 +9,6 @@ If you spot any missing groups, please feel free to contribute by posting an iss
 # Egypt 
 
 ## Al Ahly (Cairo)
-- **Ultras Ahlawy** 
+- **Ultras Ahlawy**
 
 # 
