@@ -11,6 +11,20 @@ If you spot any missing groups, please feel free to contribute by posting an [is
 ## Boca Juniors (Buenos Aires)
 - **La 12**
 
+----
+
+# Egypt 
+
+## Al Ahly (Cairo)
+- **Ultras Ahlawy**
+
+----
+
+# Italy
+
+## Lazio (Rome)
+- **Irriducibili**
+
 # Scotland
 
 ## Celtic FC (Glasgow)
@@ -25,14 +39,3 @@ If you spot any missing groups, please feel free to contribute by posting an [is
 ## FC Barcelona (Barcelona)
 - **Boixos Nois**
 
-# Italy
-
-## Lazio (Rome)
-- **Irriducibili**
-
-# Egypt 
-
-## Al Ahly (Cairo)
-- **Ultras Ahlawy**
-
-# 
