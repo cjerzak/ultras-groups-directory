@@ -25,12 +25,16 @@ If you spot any missing groups, please feel free to contribute by posting an [is
 ## Lazio (Rome)
 - **Irriducibili**
 
+----
+
 # Scotland
 
 ## Celtic FC (Glasgow)
 - **The Green Brigade**
 ## Rangers FC (Glasgow)
 - **The Union Bears**
+
+----
 
 # Spain
 
