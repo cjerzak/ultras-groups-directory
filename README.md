@@ -61,6 +61,9 @@ If you spot any errors or missing groups, please feel free to contribute by post
 ## Zamalek SC (Cairo)
 - **Ultras group:** Ultras White Knights
 
+## Al Masry (Port Said)
+- **Ultras group:** Ultras Green Eagle
+
 
 # Greece
 
