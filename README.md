@@ -7,7 +7,7 @@ If you spot any errors or missing groups, please feel free to contribute by post
 # Argentina
 
 ## River Plate (Buenos Aires)
-- **Ultras group:** Los Borrachos del Tablon
+- **Ultras group:** Los Borrachos del Tablon (Founded year if available)
 
 ## Boca Juniors (Buenos Aires)
 - **Ultras group:** La 12
