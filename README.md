@@ -141,39 +141,46 @@ If you spot any errors or missing groups, please feel free to contribute by post
 # Scotland
 
 ## Celtic FC (Glasgow)
-- **Ultras group:** The Green Brigade
+- **Ultras group:** The Green Brigade (2006)
+- [Source URL](https://en.wikipedia.org/wiki/Green_Brigade)
 
 ## Rangers FC (Glasgow)
-- **Ultras group:** The Union Bears
+- **Ultras group:** The Union Bears (2007)
+- [Source URL](https://en.wikipedia.org/wiki/Union_Bears)
 
 
 # Spain
 
 ## FC Barcelona (Barcelona)
-- **Ultras group:** Boixos Nois
+- **Ultras group:** Boixos Nois (1981)
+- [Source URL](https://en.wikipedia.org/wiki/Boixos_Nois)
 
 ## Real Madrid (Madrid)
-- **Ultras group:** Ultras Sur
-
+- **Ultras group:** Ultras Sur (1980)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Sur)
 
 # Turkey
 
 ## Fenerbahçe S.K. (Istanbul)
-- **Ultras group:** Genç Fenerbahçeliler
+- **Ultras group:** Genç Fenerbahçeliler (1998)
+- [Source URL](https://en.wikipedia.org/wiki/Gen%C3%A7_Fenerbah%C3%A7eliler)
 
 ## Galatasaray S.K. (Istanbul)
-- **Ultras group:** UltrAslan
+- **Ultras group:** UltrAslan (2001)
+- [Source URL](https://en.wikipedia.org/wiki/UltrAslan)
 
   
 # Ukraine
 
 ## Desna Chernihiv (Chernihiv)
-- **Ultras group:** Ultras Desna
-
+- **Ultras group:** Ultras Desna (1989)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Desna)
+  
 
 # United States
-
 ## Portland Timbers (Portland)
-- **Ultras group:** Timbers Army
+- **Ultras group:** Timbers Army (2001)
+- [Source URL](https://en.wikipedia.org/wiki/Timbers_Army)
+
 
 
