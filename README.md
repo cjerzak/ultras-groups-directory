@@ -101,34 +101,41 @@ If you spot any errors or missing groups, please feel free to contribute by post
 # Italy
 
 ## A.C. Milan (Milan)
-- **Ultras group:** Fossa dei Leoni
+- **Ultras group:** Fossa dei Leoni (1968)
+- [Source URL](https://en.wikipedia.org/wiki/Fossa_dei_Leoni)
 
 ## S.S. Lazio (Rome)
-- **Ultras group:** Irriducibili
+- **Ultras group:** Irriducibili (1987)
+- [Source URL](https://en.wikipedia.org/wiki/Irriducibili)
 
 
 # Iraq
 
 ## Al-Shorta SC (Baghdad)
-- **Ultras group:** Ultras Green Harp
+- **Ultras group:** Ultras Green Harp (2014)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Green_Harp)
+
   
 
 # Malaysia
 
 ## Malaysia national football team
-- **Ultras group:** Ultras Malaya
+- **Ultras group:** Ultras Malaya (2007)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Malaya)
   
 
 # Philippines
 
 ## Philippines national football team
-- **Ultras group:** Ultras Filipinas
+- **Ultras group:** Ultras Filipinas (2011)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Filipinas)
 
 
 # Slovenia
 
 ## NK Maribor (Maribor)
-- **Ultras group:** Viole Maribor
+- **Ultras group:** Viole Maribor (1989)
+- [Source URL](https://en.wikipedia.org/wiki/Viole_Maribor)
 
 
 # Scotland
