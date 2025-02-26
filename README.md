@@ -7,74 +7,95 @@ If you spot any errors or missing groups, please feel free to contribute by post
 # Argentina
 
 ## River Plate (Buenos Aires)
-- **Ultras group:** Los Borrachos del Tablon (Founded year if available)
+- **Ultras group:** Los Borrachos del Tablon (1975)
+- [Source URL](https://en.wikipedia.org/wiki/Los_Borrachos_del_Tablon)
 
 ## Boca Juniors (Buenos Aires)
-- **Ultras group:** La 12
+- **Ultras group:** La 12 (1970)
+- [Source URL](https://en.wikipedia.org/wiki/La_12_(Boca_Juniors))
+
 
 # Albania
 
 ## KF Tirana (Tirana)
-- **Ultras group:** Ballistët
+- **Ultras group:** Ballistët (2006)
+- [Source URL](https://en.wikipedia.org/wiki/Ballist%C3%ABt)
 
 ## KF Vllaznia Shkodër (Shkodër)
-- **Ultras group:** Vllaznit Ultras
+- **Ultras group:** Vllaznit Ultras (1986)
+- [Source URL](https://en.wikipedia.org/wiki/Vllaznit_Ultras)
 
 
 # Chile
 
 ## O'Higgins (Rancagua)
-- **Ultras group:** Trinchera Celeste
+- **Ultras group:** Trinchera Celeste (1994)
+- [Source URL](https://en.wikipedia.org/wiki/Trinchera_Celeste)
 
   
 # Croatia
 
 ## HNK Rijeka (Rijeka)
-- **Ultras group:** Armada Rijeka
+- **Ultras group:** Armada Rijeka (1987)
+- [Source URL](https://en.wikipedia.org/wiki/Armada_Rijeka)
 
 ## GNK Dinamo Zagreb (Zagreb)
-- **Ultras group:** Bad Blue Boys
+- **Ultras group:** Bad Blue Boys (1986)
+- [Source URL](https://en.wikipedia.org/wiki/Bad_Blue_Boys)
 
 ## HNK Hajduk Split (Split)
-- **Ultras group:** Torcida Split
+- **Ultras group:** Torcida Split (1950)
+- [Source URL](https://en.wikipedia.org/wiki/Torcida_Split)
 
 ## NK Zadar (Zadar)
-- **Ultras group:** Tornado Zadar
+- **Ultras group:** Tornado Zadar (1965)
+- [Source URL](https://en.wikipedia.org/wiki/Tornado_Zadar)
 
 ## NK Osijek (Osijek)
-- **Ultras group:** Kohorta Osijek
+- **Ultras group:** Kohorta Osijek (1988)
+- [Source URL](https://en.wikipedia.org/wiki/Kohorta_Osijek)
+
+
 
 # Bosnia and Herzegovina
 
 ## FK Sarajevo (Sarajevo)
-- **Ultras group:** Horde Zla
+- **Ultras group:** Horde Zla (1987)
+- [Source URL](https://en.wikipedia.org/wiki/Horde_Zla)
 
 ## HŠK Zrinjski Mostar (Mostar)
-- **Ultras group:** Ultras Mostar
-
+- **Ultras group:** Ultras Mostar (1994)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Mostar)
+  
 
 # Egypt
 
 ## Al Ahly SC (Cairo)
-- **Ultras group:** Ultras Ahlawy
+- **Ultras group:** Ultras Ahlawy (2007)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Ahlawy)
 
 ## Zamalek SC (Cairo)
-- **Ultras group:** Ultras White Knights
+- **Ultras group:** Ultras White Knights (2007)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_White_Knights)
 
 ## Al Masry (Port Said)
-- **Ultras group:** Ultras Green Eagle
-
+- **Ultras group:** Ultras Green Eagle (2007)
+- [Source URL](https://en.wikipedia.org/wiki/Ultras_Green_Eagle)
+  
 
 # Greece
 
 ## PAOK FC (Thessaloniki)
-- **Ultras group:** Gate 4
+- **Ultras group:** Gate 4 (1976)
+- [Source URL](https://en.wikipedia.org/wiki/Gate_4)
 
 ## Olympiacos F.C. (Piraeus)
-- **Ultras group:** Gate 7
+- **Ultras group:** Gate 7 (1982)
+- [Source URL](https://en.wikipedia.org/wiki/Gate_7)
 
 ## Panathinaikos F.C. (Athens)
-- **Ultras group:** Gate 13
+- **Ultras group:** Gate 13 (1966)
+- [Source URL](https://en.wikipedia.org/wiki/Gate_13)
 
 
 # Italy
