@@ -81,8 +81,21 @@ If you spot any errors or missing groups, please feel free to contribute by post
 ## Al Masry (Port Said)
 - **Ultras group:** Ultras Green Eagle (2007)
 - [Source URL](https://en.wikipedia.org/wiki/Ultras_Green_Eagle)
-  
 
+
+# Germany
+
+## FC St. Pauli (Hamburg)
+- **Ultras group:** Sankt Pauli (1980s)
+- **Political leaning:** Strongly left-wing, anti-fascist, anti-commercialization
+- [Source URL](https://thesefootballtimes.co/2014/11/29/a-world-of-ultras-st-pauli/)
+
+## Hansa Rostock (Rostock)
+- **Ultras group:** Ultras (early 1990s)
+- **Political leaning:** Right-wing, with significant neo-Nazi presence in the past
+- [Source URL](https://en.wikipedia.org/wiki/Politisches_derby)
+
+  
 # Greece
 
 ## PAOK FC (Thessaloniki)
