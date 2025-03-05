@@ -158,6 +158,14 @@ If you spot any errors or missing groups, please feel free to contribute by post
 ## Real Madrid (Madrid)
 - **Ultras group:** Ultras Sur (1980)
 - [Source URL](https://en.wikipedia.org/wiki/Ultras_Sur)
+  
+## RCD Espanyol (Barcelona)
+- **Ultras group:** Brigadas Blanquiazules (1985-2010)
+- [Source URL](https://es.wikipedia.org/wiki/Brigadas_Blanquiazules)
+
+## Real Oviedo (Oviedo)
+- **Ultras Group:** Symmachiarii (1994)
+- [Source URL](https://es.wikipedia.org/wiki/Symmachiarii)
 
 # Turkey
 
