@@ -86,12 +86,12 @@ If you spot any errors or missing groups, please feel free to contribute by post
 # Germany
 
 ## FC St. Pauli (Hamburg)
-- **Ultras group:** Sankt Pauli (1980s)
+- **Ultras group:** Sankt Pauli (1980)
 - **Political leaning:** Strongly left-wing, anti-fascist, anti-commercialization
 - [Source URL](https://thesefootballtimes.co/2014/11/29/a-world-of-ultras-st-pauli/)
 
 ## Hansa Rostock (Rostock)
-- **Ultras group:** Ultras (early 1990s)
+- **Ultras group:** Ultras (1990)
 - **Political leaning:** Right-wing, with significant neo-Nazi presence in the past
 - [Source URL](https://en.wikipedia.org/wiki/Politisches_derby)
 
