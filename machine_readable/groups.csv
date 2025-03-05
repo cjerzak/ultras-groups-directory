@@ -1,31 +1,33 @@
-country,city,club,ultras_group
-Croatia,Rijeka,HNK Rijeka,Armada Rijeka
-Croatia,Zagreb,GNK Dinamo Zagreb,Bad Blue Boys
-Croatia,Split,HNK Hajduk Split,Torcida Split
-Croatia,Zadar,NK Zadar,Tornado Zadar
-Croatia,Osijek,NK Osijek,Kohorta Osijek
-Albania,Tirana,KF Tirana,Ballistët
-Albania,Shkodër,KF Vllaznia Shkodër,Vllaznit Ultras
-Turkey,Istanbul,Fenerbahçe S.K.,Genç Fenerbahçeliler
-Turkey,Istanbul,Galatasaray S.K.,UltrAslan
-Bosnia and Herzegovina,Sarajevo,FK Sarajevo,Horde Zla
-Bosnia and Herzegovina,Mostar,HŠK Zrinjski Mostar,Ultras Mostar
-Greece,Thessaloniki,PAOK FC,Gate 4
-Greece,Piraeus,Olympiacos F.C.,Gate 7
-Greece,Athens,Panathinaikos F.C.,Gate 13
-Italy,Milan,A.C. Milan,Fossa dei Leoni
-Italy,Rome,S.S. Lazio,Irriducibili
-Spain,Barcelona,FC Barcelona,Boixos Nois
-Spain,Madrid,Real Madrid,Ultras Sur
-Ukraine,Chernihiv,Desna Chernihiv,Ultras Desna
-Egypt,Cairo,Al Ahly SC,Ultras Ahlawy
-Egypt,Cairo,Zamalek SC,Ultras White Knights
-Egypt,Port Said,Al Masry, Ultras Green Eagles
-Philippines,NA,Philippines national football team,Ultras Filipinas
-Slovenia,Maribor,NK Maribor,Viole Maribor
-Iraq,Baghdad,Al-Shorta SC,Ultras Green Harp
-Malaysia,NA,Malaysia national football team,Ultras Malaya
-Chile,Rancagua,O'Higgins,Trinchera Celeste
-United States,Portland,Portland Timbers,Timbers Army
-Argentina,Buenos Aires,River Plate,Los Borrachos del Tablon
-Argentina,Buenos Aires,Boca Juniors,La 12
+country,city,club,ultras_group,year_started
+Argentina,Buenos Aires,River Plate,Los Borrachos del Tablon,1975
+Argentina,Buenos Aires,Boca Juniors,La 12,1970
+Albania,Tirana,KF Tirana,Ballistët,2006
+Albania,Shkodër,KF Vllaznia Shkodër,Vllaznit Ultras,1986
+Chile,Rancagua,O'Higgins,Trinchera Celeste,1994
+Croatia,Rijeka,HNK Rijeka,Armada Rijeka,1987
+Croatia,Zagreb,GNK Dinamo Zagreb,Bad Blue Boys,1986
+Croatia,Split,HNK Hajduk Split,Torcida Split,1950
+Croatia,Zadar,NK Zadar,Tornado Zadar,1965
+Croatia,Osijek,NK Osijek,Kohorta Osijek,1988
+Bosnia and Herzegovina,Sarajevo,FK Sarajevo,Horde Zla,1987
+Bosnia and Herzegovina,Mostar,HŠK Zrinjski Mostar,Ultras Mostar,1994
+Egypt,Cairo,Al Ahly SC,Ultras Ahlawy,2007
+Egypt,Cairo,Zamalek SC,Ultras White Knights,2007
+Egypt,Port Said,Al Masry,Ultras Green Eagle,2007
+Greece,Thessaloniki,PAOK FC,Gate 4,1976
+Greece,Piraeus,Olympiacos F.C.,Gate 7,1982
+Greece,Athens,Panathinaikos F.C.,Gate 13,1966
+Italy,Milan,A.C. Milan,Fossa dei Leoni,1968
+Italy,Rome,S.S. Lazio,Irriducibili,1987
+Iraq,Baghdad,Al-Shorta SC,Ultras Green Harp,2014
+Malaysia,,Malaysia national football team,Ultras Malaya,2007
+Philippines,,Philippines national football team,Ultras Filipinas,2011
+Slovenia,Maribor,NK Maribor,Viole Maribor,1989
+Scotland,Glasgow,Celtic FC,The Green Brigade,2006
+Scotland,Glasgow,Rangers FC,The Union Bears,2007
+Spain,Barcelona,FC Barcelona,Boixos Nois,1981
+Spain,Madrid,Real Madrid,Ultras Sur,1980
+Turkey,Istanbul,Fenerbahçe S.K.,Genç Fenerbahçeliler,1998
+Turkey,Istanbul,Galatasaray S.K.,UltrAslan,2001
+Ukraine,Chernihiv,Desna Chernihiv,Ultras Desna,1989
+United States,Portland,Portland Timbers,Timbers Army,2001
