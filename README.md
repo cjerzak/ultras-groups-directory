@@ -180,6 +180,46 @@ If you spot any errors or missing groups, please feel free to contribute by post
 - **Ultras Group:** Symmachiarii (1994)
 - [Source URL](https://es.wikipedia.org/wiki/Symmachiarii)
 
+## Atletico Madrid (Madrid)
+- **Ultras Group:** Frente Ateltico (1982)
+- [Source URL](https://es.wikipedia.org/wiki/Frente_Atl%C3%A9tico)
+  
+## Deportivo La Coruña (La Coruña)
+- **Ultras Group:** Riazor Blues (1987)
+- [Source URL](https://es.wikipedia.org/wiki/Riazor_Blues)
+  
+## Real Zaragoza (Zaragoza)
+- **Ultras Group:** Ligallo Fondo Norte (1986)
+- [Source URL](https://es.wikipedia.org/wiki/Ligallo_Fondo_Norte)
+  
+## Valencia CF (Valencia)
+- **Ultras Group:** Ultras Yomus (1983)
+- [Source URL](https://es.wikipedia.org/wiki/Ultras_Yomus)
+
+## Sevilla CF (Seville)
+- **Ultras Group:** Biris Norte (1975)
+- [Source URL](https://es.wikipedia.org/wiki/Biris_Norte)
+
+## Real Betis (Seville)
+- **Ultras Group:** Supporters Gol Sur (1986)
+- [Source URL](https://es.wikipedia.org/wiki/Supporters_Gol_Sur)
+
+## CA Osasuna (Osasuna)
+- **Ultras Group:** Indar Gorri (1987)
+- [Source URL](https://es.wikipedia.org/wiki/Indar_Gorri)
+
+## Sporting Gijon (Gijon)
+- **Ultras Group:** Sporting Boys (1981)
+- [Source URL](https://es.wikipedia.org/wiki/Ultra_Boys)
+
+## Atheltic Club (Bilbao)
+- **Ultras Group:** Herri Norte Taldea (1982)
+- [Source URL](https://es.wikipedia.org/wiki/Herri_Norte_Taldea)
+
+## Real Sociedad (San Sebastian/Donostia)
+- **Ultras Group:** Peña Mujika (1981)
+- [Source URL](https://es.wikipedia.org/wiki/Pe%c3%b1a_Mujika)
+
 # Turkey
 
 ## Fenerbahçe S.K. (Istanbul)
